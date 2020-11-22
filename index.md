@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## 提供各专业论文辅导，论文发表，论文代笔，职称论文，毕业论文
+   提供知网，万方，维普等数据库查重。
 
-You can use the [editor on GitHub](https://github.com/quicktrans03/index/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/quicktrans03/index/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 提供国家级，省级期刊发表服务，加急出版，最快当月出刊，当月检索。
+   提供知网，万方，维普，龙源检索。
+   
+### 联系方式
+QQ: 1172598982
+微信：17316375356
